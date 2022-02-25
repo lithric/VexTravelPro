@@ -11,7 +11,8 @@
 //      (Drivetrain)Drivetrain-1-11-10-9-5Inert
 //      (Digital Out)StickyPiston-A
 //
-//    make sure to configure controller to drivetrain                                                                        
+//    make sure to configure controller to drivetrain                            
+// ok                                            
 // ----------------------------------------------------------------------------
 
 #include <cmath>
